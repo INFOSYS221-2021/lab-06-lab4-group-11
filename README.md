@@ -2,7 +2,7 @@ Group 11: Henry Chen, Malachi Blair, Renee Braddock, Steven Cao
 
 1.What is the type of collection used in the exercise?
 
-(List)
+(List, queue)
 
 2.What are the different ways of iterating through a collection?
 
