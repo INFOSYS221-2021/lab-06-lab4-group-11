@@ -14,11 +14,11 @@ return queue.length
 
 4.How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?
 
-(use collectionName .add()? Would the code not work after that?)
+queue.push(item);
 
 5.How do you remove an item to a collection? What happens if you try to remove an item that does not exist in the collection?
 
-(would it be like, collectionName .remove()? when item doesnt exist, the remove function will not do anything i guess?)
+queue.shift(item);
 
 6.Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.
 
