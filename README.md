@@ -10,7 +10,7 @@ Group 11: Henry Chen, Malachi Blair, Renee Braddock, Steven Cao
 
 3.How do you find out the size of a collection?
 
-(put collectionName .size()?)
+return queue.length
 
 4.How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?
 
